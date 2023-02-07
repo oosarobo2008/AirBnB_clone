@@ -1,0 +1,1 @@
+This folder contains projects on AirBnB_clone. It is a team project
